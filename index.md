@@ -15,6 +15,7 @@ GPA: 3.47 (cumulative)
 <h2>Technical Skills</h2><center>
 
 
+
 | Languages        | Tools           | FrameWorks  |
 | :-------------: |:-------------:| :-----:|
 | Java      | Git | Native Libraries |
