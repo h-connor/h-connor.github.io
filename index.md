@@ -12,7 +12,7 @@ GPA: 3.47 (cumulative)
 </div>
 
 <div align="center">
-<h2>Technical Skills</h2>
+<h2>Technical Skills</h2><center>
 
 
 | Languages        | Tools           | FrameWorks  |
@@ -26,7 +26,7 @@ GPA: 3.47 (cumulative)
 | Markdown     |       |    |
 
 
-<h2>Project</h2>
+</center><h2>Project</h2>
 </div>
 
 ## SlowDrive
