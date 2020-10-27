@@ -1,4 +1,4 @@
-[My_Addr | Phone# | hryhoru3@myumanitoba.ca | https://github.com/h-connor]
+My_Addr | Phone# | hryhoru3@myumanitoba.ca | https://github.com/h-connor
 
 <div align="center">
 <hr />
