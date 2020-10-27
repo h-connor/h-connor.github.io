@@ -13,9 +13,10 @@ GPA: 3.47 (cumulative)
 
 <center>
 <h2>Technical Skills</h2>
+</center>
 
 | Languages        | Tools           | FrameWorks  |
-| ------------- |:-------------:| :-----:|
+| :-------------: |:-------------:| :-----:|
 | Java      | Git | Native Libraries |
 | C#     | Unity      |   Photon |
 | Javascript | Android Studio      |    Android |
@@ -23,7 +24,6 @@ GPA: 3.47 (cumulative)
 | C     | BlueStacks      |    |
 | Python     | Visual Studio      |    |
 | Markdown     |       |    |
-</center>
 
 <center>
 <h2>Project</h2>
