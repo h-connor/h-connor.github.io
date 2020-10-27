@@ -10,9 +10,8 @@ University of Manitoba | Expected: May 2021
 
 GPA: 3.47 (cumulative) 
 </div>
-
-<div align="center">
-<h2>Technical Skills</h2><center>
+<center>
+<h2>Technical Skills</h2>
 
 
 
@@ -27,8 +26,8 @@ GPA: 3.47 (cumulative)
 | Markdown     |       |    |
 
 
-</center><h2>Project</h2>
-</div>
+<h2>Project</h2>
+</center>
 
 ## SlowDrive
 https://github.com/h-connor/SlowDrive
