@@ -49,9 +49,6 @@ A solo-project SRPG mobile game being developed as a hobby.
 Will be available on the app store | Expected: 2022-2023.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-For more information or interests in the app, see readme.md on GitHub.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 To view the scripts I had personally written, see Assets -> Scripts on the repository.
 
 <center><h2>Experience</h2></center>
