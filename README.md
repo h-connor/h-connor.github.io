@@ -38,10 +38,12 @@ committing directly to Github after editing documents.
     1. Go to the 'settings' section in the repository
     2. Select 'change theme' under GitHub Pages
     3. Choose a theme that you would like to have when displaying your resume
+    4. Commit the new theme
 3. Upload your resume to the repository
 4. Change the title of your page
     1. Edit the _config.yml file
     2. Add the line of code: "**title: my_name's Resume**"
+    3. Commit the changes
 5. See your resume at "http://my_profile_name.github.io"
 
 ###### Protocols to Follow - Learning About Each Step
