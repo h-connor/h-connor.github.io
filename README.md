@@ -48,7 +48,7 @@ committing directly to Github after editing documents.
     3. Commit changes
 5. See your resume at "http://my_profile_name.github.io"
 
-##### Protocols to Follow - Learning About Each Step
+##### Principles to Follow - Learning About Each Step
 
 A GitHub repository is an online storage space for a project. Using your profile name with a github.io extension as the name of your repository
 will create a static website hosted by GitHub Pages. Static websites provide many benefits including; simplicity, portability, and security,
