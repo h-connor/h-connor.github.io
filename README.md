@@ -70,7 +70,7 @@ content is both discoverable and aesthetically pleasing.
 One of the most fundamental aspects of technical writing is to define your audience. When writing any piece of documentation, your writing will make assumptions on the level of knowledge
 of the reader based on your use of language. How descriptive you are, what you write, and your choice of words should be influenced by _who_ is reading. 
 In addition, you should understand only what your audience _needs_ to know, so you as a writer can keep a central focus without false assumptions about the audience.
-To incorporate your audience into your resume, In step 4, use a title that is relevant to who will see your work, and describes they will expect to see.
+To incorporate your audience into your resume, In step 4, use a title that is relevant to who will see your work, and describes what they will expect to see.
 
 ### More Resources
 
