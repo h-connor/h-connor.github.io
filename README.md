@@ -89,6 +89,8 @@ Group Members (Group 10):
 3. Connor Hryhoruk
 4. Huayi Chen
 
+[Author](https://github.com/parkr) of GitHub Pages Jekyll template themes.
+
 ### FAQs
 
 **Why use Markdown?**
