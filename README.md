@@ -68,7 +68,7 @@ and describes what work they will expect to see. When writing any piece of docum
 of the reader based on your use of language. How descriptive you are, what you write, and your choice of words should be influenced by _who_ is reading. 
 In addition, you should understand only what your audience _needs_ to know, so you as a writer can keep a central focus without false assumptions about the audience.
 
-##### More Resources
+### More Resources
 
 Learn about Markdown [here](https://www.markdownguide.org/getting-started).
 
