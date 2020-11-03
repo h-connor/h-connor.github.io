@@ -104,7 +104,7 @@ The author of GitHub's Jekyll template themes [Parker Moore](https://github.com/
 
 **Why use Markdown?**
 
-Using a lightweight markup language is a solution to avoiding heavily written languages such as HTML, XML or Javascript.
+Using a lightweight markup language is a solution to avoiding heavily written languages such as HTML, XML, or Javascript.
 For simple designs such as documentation, where you want to focus on giving information out rather than building a system, a lightweight
 language will save you time with its simplicity of syntax. In addition, XML-based languages hinder contributions
 by other developers as they are more word and learn intensive through raw text. Markdown is the most widely used markup language in the world 
