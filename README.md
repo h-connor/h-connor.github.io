@@ -78,7 +78,7 @@ Learn more about [Jekyll](https://jekyllrb.com/tutorials/video-walkthroughs/).
 
 Learn [Git](https://learngitbranching.js.org/).
 
-This README references [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on the principles of technical writing.
+This README references [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on the principles of technical writing.
 
 ### Authors and Acknowledgements
 
