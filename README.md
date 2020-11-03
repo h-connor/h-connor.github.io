@@ -56,11 +56,11 @@ As shown in the gif above, follow these steps to host your resume online:
 A GitHub repository is an online storage space for a project. As in step 1, using your profile name with a github.io extension as the name of your repository
 will create a static website hosted by GitHub Pages. Static websites provide many benefits including; simplicity, portability, and security,
 and as such, use static websites whenever possible ([Etter, 2016, Pg 28](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)).
-For hosting on GitHub Pages, No further work is required to create the website, and any further changes will regenerate the site using the file named after index.md. 
-In all projects, you should publish frequently and allow members to contribute easily.
+For hosting on GitHub Pages, No excess work is required to create the website, and any further changes will regenerate the site using the file named after index.md. 
+In all projects, you should publish frequently.
 With respect to a resume, you must keep documentation up to date and modifiable through relevant information for the position you will apply for.
 As performed in step 3, GitHub supports frequent publishment and easy contributions by offering a direct method of updating a repository by overwriting files with the same name and
-creating new files that are uploaded, as well as providing a history of committed work for tracking any form of collaboration.
+creating new files that are uploaded, as well as providing a history of committed work for tracking any form of collaboration or reverting changes to the past.
 
 As in step 2, GitHub Pages offers a selection of themes using Jekyll to style your hosted webpage. Tools such as Jekyll are an important aspect for styling
 documentation in a way that appeals to your audience. Select a theme that displays important text by breaking similarity with contrast,
