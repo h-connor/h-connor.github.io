@@ -16,7 +16,7 @@ what practices you should follow to maximize communication of your skills.
 * A GitHub account (Create one for free!)
 * A text editor (optional but recommended)
 
-Please see the [More Resources](#More Resources) section for more sources to complete these steps.
+Please see the [More Resources](#More-Resources) section for more sources to complete these steps.
 
 Note that it is recommended to use a Markdown editor.
 The benefits of a Markdown editor include seeing the output in real-time, text highlighting for visual feedback,
