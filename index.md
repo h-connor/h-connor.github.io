@@ -1,6 +1,5 @@
 My_Addr || Phone# || hryhoru3@myumanitoba.ca || https://github.com/h-connor
 
-<div align="center">
 <hr />
 <h2>Education</h2>
 
@@ -9,8 +8,7 @@ Bachelor of Science – Computer Science Honours
 University of Manitoba | Expected: May 2021 
 
 GPA: 3.47 (cumulative) 
-</div>
-<center>
+
 <h2>Technical Skills</h2>
 
 
@@ -27,7 +25,6 @@ GPA: 3.47 (cumulative)
 
 
 <h2>Project</h2>
-</center>
 
 ## SlowDrive
 https://github.com/h-connor/SlowDrive
