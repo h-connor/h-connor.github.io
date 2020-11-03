@@ -40,7 +40,7 @@ committing directly to Github after editing documents.
     3. Choose a theme that you would like to have when displaying your resume
     4. Commit changes
 3. Upload your resume to the repository
-    1. Name your resume "index.md"
+    1. Name your resume "**index.md**"
     2. Commit changes
 4. Change the title of your page
     1. Edit the _config.yml file
