@@ -5,7 +5,7 @@ My_Addr -- (204)pho-numb -- hryhoru3@myumanitoba.ca -- https://github.com/h-conn
 
 Bachelor of Science – Computer Science Honours 
 
-University of Manitoba | Expected: May 2021 
+University of Manitoba -- Expected: May 2021 
 
 GPA: 3.47 (cumulative) 
 
