@@ -14,7 +14,7 @@ what practices you should follow with any form of technical writing.
 ### Prerequisites
 
 * A resume in Markdown
-* A GitHub account (:free:)
+* A GitHub account :free:
 * A text editor (optional but recommended)
 
 Please see the [More Resources](#More-Resources) section for more sources to acquire these prerequisites.
