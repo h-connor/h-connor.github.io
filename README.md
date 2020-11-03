@@ -34,7 +34,7 @@ committing directly to Github after editing documents.
 As shown in the gif above, follow these steps to host your resume online:
 
 1. Create an online repository
-    1. Goto the 'Repositories' section on your GitHub profile
+    1. Go to the 'Repositories' section on your GitHub profile
     2. Create a new repository named: "**my_profile_name.github.io**".
     - For example, my repository is named: h-connor.github.io
 2. Select a theme
