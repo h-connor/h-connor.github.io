@@ -1,4 +1,4 @@
-My_Addr || Phone# || hryhoru3@myumanitoba.ca || https://github.com/h-connor
+My_Addr -- (204)pho-numb -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
 <h2>Education</h2>
