@@ -1,6 +1,7 @@
 My_Addr -- (204)pho-numb -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
+
 ## Education
 
 Bachelor of Science – Computer Science Honours 
