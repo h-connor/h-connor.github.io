@@ -49,7 +49,7 @@ Will be available on the app store | Expected: 2022-2023.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 To view the scripts I had personally written, see Assets -> Scripts on the repository.
 
-<center><h2>Experience</h2></center>
+## Experience
 
 #### **Volunteer Services Associate** 
 June 2-18 - Present
