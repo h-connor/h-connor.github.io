@@ -48,7 +48,7 @@ committing directly to Github after editing documents.
     3. Commit changes
 5. See your resume at "http://my_profile_name.github.io"
 
-###### Protocols to Follow - Learning About Each Step
+##### Protocols to Follow - Learning About Each Step
 
 A GitHub repository is an online storage space for a project. Using your profile name with a github.io extension as the name of your repository
 will create a static website hosted by GitHub Pages. Static websites provide many benefits including; simplicity, portability, and security,
@@ -68,7 +68,7 @@ and describes what work they will expect to see. When writing any piece of docum
 of the reader based on your use of language. How descriptive you are, what you write, and your choice of words should be influenced by _who_ is reading. 
 In addition, you should understand only what your audience _needs_ to know, so you as a writer can keep a central focus without false assumptions about the audience.
 
-###### More Resources
+##### More Resources
 
 Learn about Markdown [here](https://www.markdownguide.org/getting-started).
 
@@ -81,6 +81,13 @@ Learn [Git](https://learngitbranching.js.org/).
 This README references [Andrew Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on the principles of technical writing.
 
 ### Authors and Acknowledgements
+
+Group Members (Group 10):
+
+1. Jai Sandhu
+2. David Le
+3. Connor Hryhoruk
+4. Huayi Chen
 
 ### FAQs
 
