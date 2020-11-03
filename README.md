@@ -70,15 +70,15 @@ In addition, you should understand only what your audience _needs_ to know, so y
 
 ###### More Resources
 
-If you are unfamiliar with Markdown, you can find a great resource [here](https://www.markdownguide.org/getting-started).
+Learn about Markdown [here](https://www.markdownguide.org/getting-started).
 
-If you are unfamiliar with the syntax of Markdown, a great tutorial can be found [here](https://helloacm.com/markdown-markup-language-quick-tutorial/).
+Learn the syntax of Markdown [here](https://helloacm.com/markdown-markup-language-quick-tutorial/).
 
 Learn more about [Jekyll](https://jekyllrb.com/tutorials/video-walkthroughs/).
 
 Learn [Git](https://learngitbranching.js.org/).
 
-This README references [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
+This README references [Etter's book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) on the principles of technical writing.
 
 ### Authors and Acknowledgements
 
