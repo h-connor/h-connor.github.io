@@ -1,7 +1,7 @@
 My_Addr -- (204)pho-numb -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
-##Education
+## Education
 
 Bachelor of Science – Computer Science Honours 
 
@@ -9,7 +9,7 @@ University of Manitoba -- Expected: May 2021
 
 GPA: 3.47 (cumulative) 
 
-##Technical Skills
+## Technical Skills
 
 
 
@@ -24,9 +24,9 @@ GPA: 3.47 (cumulative)
 | Markdown     |       |    |
 
 
-##Projects
+## Projects
 
-### SlowDrive
+#### SlowDrive
 https://github.com/h-connor/SlowDrive
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -35,7 +35,7 @@ An app used to indicate if a driver is speeding.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Created as a group project in Software Engineering.
 
-### HeroesArise
+#### HeroesArise
 
 https://github.com/h-connor/HeroesArise
 
@@ -50,7 +50,7 @@ To view the scripts I had personally written, see Assets -> Scripts on the repos
 
 <center><h2>Experience</h2></center>
 
-### **Volunteer Services Associate** 
+#### **Volunteer Services Associate** 
 June 2-18 - Present
 
 **Winnipeg Harvest**, Wpg MB
@@ -61,7 +61,7 @@ Supervise, encourage, and train volunteers working on location.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   Provide orientations of up to 25 people for new team members.
 
-### **Moderator (Voluntary || Nominated)** 
+#### **Moderator (Voluntary || Nominated)** 
 October 2017 - July 2018
 
 **SoloLearn**, Mobile/Web application
