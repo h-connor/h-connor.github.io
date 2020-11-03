@@ -49,7 +49,7 @@ As shown in the gif above, follow these steps to host your resume online:
     1. Edit the _config.yml file
     2. Add the line of code: "**title: my title**"
     3. Commit changes
-5. See your resume with the URL "my_profile_name.github.io"
+5. See your resume with the URL "**my_profile_name.github.io**"
 
 ##### Principles to Follow - Learning About Each Step
 
