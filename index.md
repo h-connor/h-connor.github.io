@@ -59,7 +59,7 @@ Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Supervise, encourage, and train volunteers working on location.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Provide orientations of up to 25 people for new team members.
+  Provide orientations of up to 25 people for new team members.
 
 ### **Moderator (Voluntary || Nominated)** 
 October 2017 - July 2018
@@ -70,7 +70,7 @@ Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Assure content creation guidelines and privacy policies are being followed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Created a web crawler to detect profanity on profiles.
+ Created a web crawler to detect profanity on profiles.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-View my profile at https://www.sololearn.com/Profile/1117967
+ View my profile at https://www.sololearn.com/Profile/1117967
