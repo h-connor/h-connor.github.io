@@ -57,10 +57,11 @@ A GitHub repository is an online storage space for a project. As in step 1, usin
 will create a static website hosted by GitHub Pages. Static websites provide many benefits including; simplicity, portability, and security,
 and as such, use static websites whenever possible ([Etter, 2016, Pg 28](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)).
 For hosting on GitHub Pages, No excess work is required to create the website, and any further changes will regenerate the site using the file named after index.md. 
-In all projects, you should publish frequently.
+In all projects, you should publish frequently with an easy way for members to contribute work.
 With respect to a resume, you must keep documentation up to date and modifiable through relevant information for the position you will apply for.
 As performed in step 3, GitHub supports frequent publishment and easy contributions by offering a direct method of updating a repository by overwriting files with the same name and
-creating new files that are uploaded, as well as providing a history of committed work for tracking any form of collaboration or reverting changes to the past.
+creating new files that are uploaded, as well as providing a history of committed work for tracking any form of collaboration or reverting changes to the past. In addition,
+for other projects, GitHub offers an easy way to contribute through a branch feature that allows each member to upload work to individual versions of the projects to be merged later on.
 
 As in step 2, GitHub Pages offers a selection of themes using Jekyll to style your hosted webpage. Tools such as Jekyll are an important aspect for styling
 documentation in a way that appeals to your audience. Select a theme that displays important text by breaking similarity with contrast,
