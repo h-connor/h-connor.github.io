@@ -52,7 +52,7 @@ To view the scripts I had personally written, see Assets -> Scripts on the repos
 ## Experience
 
 #### **Volunteer Services Associate** 
-June 2-18 - Present
+June 2018 - Present
 
 **Winnipeg Harvest**, Wpg MB
 
