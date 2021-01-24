@@ -22,7 +22,7 @@ GPA: 3.50 (cumulative)
 | SQL     | API      |   | Honesty |
 | C/C++     | BlueStacks      |    | Honorable
 | Python     | Visual Studio      |    | Training Others |
-| Markdown     |       |    | Communicating |
+| Markdown     |       |    | Communication |
 
 
 ## Projects
