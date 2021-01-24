@@ -48,7 +48,7 @@ A high fidelity prototype created as a group project in Human Computer Interacti
 This application is a prototype of an online food ordering website, designed to maximimize the principle of simplicity for the easiest, most learnable user experience.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-I had primarily aided in backend development, with JS and JQuery to manage all dynamic interactions.
+I primarily aided in backend development, with JS and JQuery to manage all dynamic interactions, along with managing the work schedule for our team members to stay on track for the website to be completed on time.
 
 ## Experience
 
