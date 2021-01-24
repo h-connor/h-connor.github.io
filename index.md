@@ -37,7 +37,7 @@ An app used to indicate if a driver is speeding.
 Created as a group project in Software Engineering.
 Developed through Android Studio, in connection with Bing maps API to gather speed limits from the users location.
 
-#### TODO
+#### TOGO
 
 https://github.com/emily0906/Togo
 
