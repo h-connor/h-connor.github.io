@@ -14,15 +14,15 @@ GPA: 3.50 (cumulative)
 
 
 
-| Languages        | Tools           | FrameWorks  |
-| :-------------: |:-------------:| :-----:|
-| Java      | Git | Native Libraries |
-| C#     | Unity      |   Android |
-| Javascript | Android Studio      |     |
-| SQL     | API      |   |
-| C     | BlueStacks      |    |
-| Python     | Visual Studio      |    |
-| Markdown     |       |    |
+| Languages        | Tools           | FrameWorks  | Qualities|
+| :-------------: |:-------------:| :-----:| :----: |
+| Java      | Git | Native Libraries | Work Ethic |
+| C#     | Unity      |   Android | Time Management |
+| Javascript | Android Studio      |     | Effeciency |
+| SQL     | API      |   | Programming |
+| C     | BlueStacks      |    | Coping with Difficulties
+| Python     | Visual Studio      |    | Training Others |
+| Markdown     |       |    | Communicating |
 
 
 ## Projects
