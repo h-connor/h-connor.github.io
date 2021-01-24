@@ -8,7 +8,7 @@ Bachelor of Science – Computer Science Honours
 
 University of Manitoba -- Expected: May 2021 
 
-GPA: 3.47 (cumulative) 
+GPA: 3.50 (cumulative) 
 
 ## Technical Skills
 
@@ -28,26 +28,27 @@ GPA: 3.47 (cumulative)
 ## Projects
 
 #### SlowDrive
-https://github.com/h-connor/SlowDrive
+https://presentation-71ab83.webflow.io/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 An app used to indicate if a driver is speeding.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Created as a group project in Software Engineering.
+Developed through Android Studio, in connection with Bing maps API to gather speed limits from the users location.
 
-#### HeroesArise
+#### TODO
 
-https://github.com/h-connor/HeroesArise
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-A solo-project SRPG mobile game being developed as a hobby.
+https://github.com/emily0906/Togo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Will be available on the app store | Expected: 2022-2023.
+A high fidelity prototype created as a group project in Human Computer Interaction.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-To view the scripts I had personally written, see Assets -> Scripts on the repository.
+This application is a prototype of an online food ordering website, designed to maximimize the principle of simplicity for the easiest, most learnable user experience.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+I had primarily aided in backend development, with JS and JQuery to manage all dynamic interactions.
 
 ## Experience
 
@@ -60,7 +61,7 @@ Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Supervise, encourage, and train volunteers working on location.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- Provide orientations of up to 25 people for new team members.
+ Provide orientations of up to 25 people at once for new team members.
 
 #### **Moderator (Voluntary || Nominated)** 
 October 2017 - July 2018
