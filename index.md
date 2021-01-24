@@ -18,9 +18,9 @@ GPA: 3.50 (cumulative)
 | :-------------: |:-------------:| :-----:| :----: |
 | Java      | Git | Native Libraries | Work Ethic |
 | C#     | Unity      |   Android | Time Management |
-| Javascript | Android Studio      |     | Effeciency |
-| SQL     | API      |   | Programming |
-| C     | BlueStacks      |    | Coping with Difficulties
+| Javascript | Android Studio      |     | Efficiency |
+| SQL     | API      |   | Honesty |
+| C     | BlueStacks      |    | Honorable
 | Python     | Visual Studio      |    | Training Others |
 | Markdown     |       |    | Communicating |
 
