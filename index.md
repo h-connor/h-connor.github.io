@@ -1,4 +1,4 @@
-My_Addr -- (204)pho-numb -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
+1119 Mulvey Ave -- (204)795-1795 -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
 
