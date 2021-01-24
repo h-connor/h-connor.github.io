@@ -17,8 +17,8 @@ GPA: 3.50 (cumulative)
 | Languages        | Tools           | FrameWorks  |
 | :-------------: |:-------------:| :-----:|
 | Java      | Git | Native Libraries |
-| C#     | Unity      |   Photon |
-| Javascript | Android Studio      |    Android |
+| C#     | Unity      |   Android |
+| Javascript | Android Studio      |     |
 | SQL     | API      |   |
 | C     | BlueStacks      |    |
 | Python     | Visual Studio      |    |
