@@ -20,7 +20,7 @@ GPA: 3.50 (cumulative)
 | C#     | Unity      |   Android | Time Management |
 | Javascript | Android Studio      |     | Efficiency |
 | SQL     | API      |   | Honesty |
-| C     | BlueStacks      |    | Honorable
+| C/C++     | BlueStacks      |    | Honorable
 | Python     | Visual Studio      |    | Training Others |
 | Markdown     |       |    | Communicating |
 
