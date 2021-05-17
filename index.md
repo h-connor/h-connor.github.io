@@ -6,9 +6,9 @@
 
 Bachelor of Science – Computer Science Honours 
 
-University of Manitoba -- Expected: May 2021 
+University of Manitoba
 
-GPA: 3.50 (cumulative) 
+GPA: 3.55 (overall) 
 
 ## Technical Skills
 
