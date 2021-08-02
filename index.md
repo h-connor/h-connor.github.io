@@ -39,7 +39,7 @@ Developed through Android Studio, in connection with Bing maps API to gather spe
 
 #### TOGO
 
-https://github.com/emily0906/Togo
+https://emily0906.github.io/Togo/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 A high fidelity prototype created as a group project in Human Computer Interaction.
