@@ -21,7 +21,7 @@ GPA: 3.55 (overall)
 | Javascript | Android Studio      |     | Efficiency |
 | SQL     | API      |   | Honesty |
 | C/C++     | BlueStacks      |    | Honorable
-| Python     | Visual Studio      |    | Training Others |
+| Python     | Visual Studio      |    | Training |
 | Markdown     |       |    | Communication |
 
 
