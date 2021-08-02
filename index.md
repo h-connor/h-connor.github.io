@@ -1,4 +1,4 @@
-[Address->Contact] -- (###)###-#### -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
+[Address->Contact] -- (204)795-1795 -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
 
