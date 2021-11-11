@@ -52,6 +52,17 @@ I primarily aided in backend development, with JS and JQuery to manage all dynam
 
 ## Experience
 
+#### **Grader / Marker in Computer Science**
+September 2021 - Present
+
+**University of Manitoba**, Wpg MB
+
+Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Grade students assignments based on a provided rubric.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ Report potential academic dishonesty and provide feedback to students.
+
 #### **Volunteer Services Associate** 
 June 2018 - Present
 
