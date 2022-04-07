@@ -64,7 +64,7 @@ Grade students assignments based on a provided rubric.
  Report potential academic dishonesty and provide feedback to students.
 
 #### **Volunteer Services Associate** 
-June 2018 - Present
+June 2018 - September 2021 (as paid staff)
 
 **Winnipeg Harvest**, Wpg MB
 
