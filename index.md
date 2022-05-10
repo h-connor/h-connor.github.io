@@ -8,7 +8,7 @@ Bachelor of Science – Computer Science Honours
 
 University of Manitoba
 
-GPA: 3.55 (overall) 
+GPA: 3.55 (overall - Undergraduate) 
 
 ## Technical Skills
 
