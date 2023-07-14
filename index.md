@@ -8,7 +8,7 @@ Bachelor of Science – Computer Science Honours
 
 University of Manitoba
 
-GPA: 3.55 (overall - Undergraduate) 
+GPA: 4.10 (Msc Graduate) 
 
 ## Technical Skills
 
@@ -42,23 +42,23 @@ Developed through Android Studio, in connection with Bing maps API to gather spe
 https://emily0906.github.io/Togo/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-A high fidelity prototype created as a group project in Human Computer Interaction.
+A high-fidelity prototype created as a group project in Human Computer Interaction.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-This application is a prototype of an online food ordering website, designed to maximimize the principle of simplicity for the easiest, most learnable user experience.
+This application is a prototype of an online food ordering website, designed to maximize the principle of simplicity for the easiest, most learnable user experience.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-I primarily aided in backend development, with JS and JQuery to manage all dynamic interactions, along with managing the work schedule for our team members to stay on track for the website to be completed on time.
+I primarily aided in backend development, with JS and JQuery to manage all dynamic interactions and the work schedule for our team members to stay on track for the website to be completed on time.
 
 ## Experience
 
-#### **Grader / Marker in Computer Science**
+#### **Grader / TA in Computer Science**
 September 2021 - Present
 
 **University of Manitoba**, Wpg MB
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Grade students assignments based on a provided rubric.
+Grade student's assignments based on a provided rubric. Have provided office hours. Answer questions and provide feedback.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Report potential academic dishonesty and provide feedback to students.
@@ -80,7 +80,7 @@ October 2017 - July 2018
 **SoloLearn**, Mobile/Web application
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Assure content creation guidelines and privacy policies are being followed.
+Ensure content creation guidelines and privacy policies are being followed.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Created a web crawler to detect profanity on profiles.
