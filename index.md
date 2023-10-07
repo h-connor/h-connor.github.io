@@ -6,6 +6,8 @@
 
 Bachelor of Science – Computer Science Honours 
 
+Masters of Science - Computer Science
+
 University of Manitoba
 
 GPA: 4.10 (Msc Graduate) 
@@ -25,7 +27,7 @@ GPA: 4.10 (Msc Graduate)
 | Markdown     |       |    | Communication |
 
 
-## Projects
+## (Undergraduate) Projects
 
 #### SlowDrive
 https://presentation-71ab83.webflow.io/
@@ -58,13 +60,13 @@ September 2021 - Present
 **University of Manitoba**, Wpg MB
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Grade student's assignments based on a provided rubric. Have provided office hours. Answer questions and provide feedback.
+Grade student's assignments based on a provided rubric. Office hours and invigilation. Answer questions and provide feedback.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Report potential academic dishonesty and provide feedback to students.
 
 #### **Volunteer Services Associate** 
-June 2018 - September 2021 (as paid staff)
+June 2018 - September 2021 (paid staff)
 
 **Winnipeg Harvest**, Wpg MB
 
