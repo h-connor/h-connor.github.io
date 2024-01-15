@@ -10,11 +10,9 @@ Masters of Science - Computer Science
 
 University of Manitoba
 
-GPA: 4.10 (Msc Graduate) 
+GPA: 4.25 (PhD Program) 
 
 ## Technical Skills
-
-
 
 | Languages        | Tools           | FrameWorks  | Qualities|
 | :-------------: |:-------------:| :-----:| :----: |
@@ -26,6 +24,7 @@ GPA: 4.10 (Msc Graduate)
 | Python     | Visual Studio      |    | Training |
 | Markdown     |       |    | Communication |
 
+Expertise in **data mining**.
 
 ## (Undergraduate) Projects
 
@@ -54,6 +53,12 @@ I primarily aided in backend development, with JS and JQuery to manage all dynam
 
 ## Experience
 
+#### **Research Assistant (Datamining Lab)**
+June 2023 - Present
+
+Duties:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Complete assigned tasks. Goal: Create a model to uncover patterns among people diagnosed with Juvenile Arthritis for the prevention of prolonged diagnosis.
+
 #### **Grader / TA in Computer Science**
 September 2021 - Present
 
@@ -68,7 +73,7 @@ Grade student's assignments based on a provided rubric. Office hours and invigil
 #### **Volunteer Services Associate** 
 June 2018 - September 2021 (paid staff)
 
-**Winnipeg Harvest**, Wpg MB
+**Harvest Manitoba**, Wpg MB (previously named Winnipeg Harvest)
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 Supervise, encourage, and train volunteers working on location.
@@ -76,16 +81,7 @@ Supervise, encourage, and train volunteers working on location.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  Provide orientations of up to 25 people at once for new team members.
 
-#### **Moderator (Voluntary || Nominated)** 
-October 2017 - July 2018
+#### **Voluntary Work** 
+**SoloLearn**, Mobile/Web application. Nominated Moderator. October 2017 - July 2018
 
-**SoloLearn**, Mobile/Web application
-
-Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Ensure content creation guidelines and privacy policies are being followed.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- Created a web crawler to detect profanity on profiles.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- View my profile at https://www.sololearn.com/Profile/1117967
+**Harvest Manitoba**, in-person food distribution management. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba.
