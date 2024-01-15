@@ -1,4 +1,4 @@
-[Address->Contact] -- (204)x9x-xxx5 -- hryhoru3@myumanitoba.ca -- https://github.com/h-connor
+[Address->Contact] -- (204)x9x-xxx5 -- hxxxxxxx@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
 
@@ -26,7 +26,7 @@ GPA: 4.25 (PhD Program)
 
 Expertise in **data mining**.
 
-## (Undergraduate) Projects
+## (Undergraduate) school Projects
 
 #### SlowDrive
 https://presentation-71ab83.webflow.io/
@@ -34,22 +34,12 @@ https://presentation-71ab83.webflow.io/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 An app used to indicate if a driver is speeding.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Created as a group project in Software Engineering.
-Developed through Android Studio, in connection with Bing maps API to gather speed limits from the users location.
-
 #### TOGO
 
 https://emily0906.github.io/Togo/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-A high-fidelity prototype created as a group project in Human Computer Interaction.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-This application is a prototype of an online food ordering website, designed to maximize the principle of simplicity for the easiest, most learnable user experience.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-I primarily aided in backend development, with JS and JQuery to manage all dynamic interactions and the work schedule for our team members to stay on track for the website to be completed on time.
+A high-fidelity prototype of a food service website.
 
 ## Experience
 
@@ -84,4 +74,15 @@ Supervise, encourage, and train volunteers working on location.
 #### **Voluntary Work** 
 **SoloLearn**, Mobile/Web application. Nominated Moderator. October 2017 - July 2018
 
-**Harvest Manitoba**, in-person food distribution management. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba.
+**Harvest Manitoba**, in-person food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. June 2017-2021.
+
+## Academic Achievements
+
+### Primary Authorship ###
+
+* DOI: 10.1109/SWC50871.2021.00068 - 2021
+* DOI: 10.1145/3487351.3489472 - 2021
+* DOI: 10.1145/3486622.3494008 - 2021
+* DOI: 10.1109/ASONAM55673.2022.10068716 - 2022
+* DOI: 10.1109/WI-IAT55865.2022.00097 - 2022
+* DOI: 10.1109/ICDH60066.2023.00049 - 2023
