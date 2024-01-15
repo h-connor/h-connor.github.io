@@ -3,13 +3,9 @@
 <hr />
 
 ## Education
-
-Bachelor of Science – Computer Science Honours 
-
-Masters of Science - Computer Science
-
-University of Manitoba
-
+Bachelor of Science – Computer Science Honours <br />
+Masters of Science - Computer Science <br />
+University of Manitoba <br />
 GPA: 4.25 (PhD Program) 
 
 ## Technical Skills
