@@ -15,7 +15,7 @@ GPA: 4.25 (PhD Program)
 | Java      | Git | Work Ethic |
 | C#     | Unity      |   Time Management |
 | Javascript | Android Studio     | Efficiency |
-| SQL     | API      |  Honesty |
+| SQL     | API's      |  Honesty |
 | C/C++     | BlueStacks      |   Honor
 | Python     | Visual Studio      |    Training |
 | Markdown     |       |   Communication |
