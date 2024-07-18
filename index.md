@@ -6,7 +6,7 @@
 Bachelor of Science – Computer Science Honours <br />
 Masters of Science - Computer Science <br />
 University of Manitoba <br />
-GPA: 4.25 (PhD Program) 
+GPA: 4.06 (Overall) 
 
 ## Technical Skills
 
@@ -22,13 +22,13 @@ GPA: 4.25 (PhD Program)
 
 Expertise in **data mining**.
 
-## (Undergraduate) school Projects
+## (Undergraduate) School Projects
 
 #### SlowDrive
 https://presentation-71ab83.webflow.io/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-An app used to indicate if a driver is speeding.
+An app to notify drivers of their speeding.
 
 #### TOGO
 
@@ -39,42 +39,40 @@ A high-fidelity prototype of a food service website.
 
 ## Experience
 
-#### **Research Assistant (Datamining Lab)**
-June 2023 - Present
+#### **Research Assistant (Datamining Lab)** &nbsp;&nbsp; *June 2023 - Present*
 
 Duties:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Complete assigned tasks. Goal: Create a model to uncover patterns among people diagnosed with Juvenile Arthritis for the prevention of prolonged diagnosis.
 
-#### **Grader / TA in Computer Science**
-September 2021 - Present
+* Complete assigned tasks. Goal: Create a model to uncover patterns among people diagnosed with Juvenile Arthritis for the prevention of prolonged diagnosis.
+
+#### **Grader / TA in Computer Science** &nbsp;&nbsp; *September 2021 - Present*
 
 **University of Manitoba**, Wpg MB
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Grade student's assignments based on a provided rubric. Office hours and invigilation. Answer questions and provide feedback.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- Report potential academic dishonesty and provide feedback to students.
+* Grade student's assignments based on a provided rubric. Office hours and invigilation. Answer questions and provide feedback.
+* Report potential academic dishonesty and provide feedback to students.
 
-#### **Volunteer Services Associate** 
-June 2018 - September 2021 (paid staff)
+#### **Volunteer Services Associate** &nbsp;&nbsp; *June 2018 - September 2021 (paid staff)*
 
 **Harvest Manitoba**, Wpg MB (previously named Winnipeg Harvest)
 
 Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-Supervise, encourage, and train volunteers working on location.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- Provide orientations of up to 25 people at once for new team members.
+* Supervise, encourage, and train volunteers working on location.
+* Provide orientations of up to 25 people at once for new team members.
 
 #### **Voluntary Work** 
-**SoloLearn**, Mobile/Web application. Nominated Moderator. October 2017 - July 2018
+**SoloLearn**, *(October 2017 - 2018)* &nbsp;&nbsp; Mobile/Web application. Nominated Moderator.
 
-**Harvest Manitoba**, in-person food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. June 2017-2021.
+**Harvest Manitoba** *(June 2017 - 2021)*, &nbsp;&nbsp; in-person food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
 
 ## Academic Achievements
 
-### Primary Authorship ###
+* 2021 Faculty of Science Philip Hultin award
+
+### Primary Authorships ###
 
 * DOI: 10.1109/SWC50871.2021.00068 - 2021
 * DOI: 10.1145/3487351.3489472 - 2021
