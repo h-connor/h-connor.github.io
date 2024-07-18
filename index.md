@@ -41,7 +41,7 @@ A high-fidelity prototype of a food service website.
 
 #### **Research Assistant (Datamining Lab)** &nbsp;&nbsp; *June 2023 - Present*
 
-Duties:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Duties*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 * Complete assigned tasks. Goal: Create a model to uncover patterns among people diagnosed with Juvenile Arthritis for the prevention of prolonged diagnosis.
 
@@ -49,8 +49,9 @@ Duties:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **University of Manitoba**, Wpg MB
 
-Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+* Substitute instruction of a class (if required)
 * Grade student's assignments based on a provided rubric. Office hours and invigilation. Answer questions and provide feedback.
 * Report potential academic dishonesty and provide feedback to students.
 
@@ -58,7 +59,7 @@ Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Harvest Manitoba**, Wpg MB (previously named Winnipeg Harvest)
 
-Duties: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+*Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 * Supervise, encourage, and train volunteers working on location.
 * Provide orientations of up to 25 people at once for new team members.
