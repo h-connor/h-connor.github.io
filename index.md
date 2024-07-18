@@ -1,4 +1,4 @@
-[Address->Contact] -- (204)x9x-xxx5 -- hxxxxxxx@myumanitoba.ca -- https://github.com/h-connor
+(204)x9x-xxx5 -- hxxxxxxx@myumanitoba.ca -- https://github.com/h-connor
 
 <hr />
 
@@ -10,15 +10,15 @@ GPA: 4.25 (PhD Program)
 
 ## Technical Skills
 
-| Languages        | Tools           | FrameWorks  | Qualities|
-| :-------------: |:-------------:| :-----:| :----: |
-| Java      | Git | Native Libraries | Work Ethic |
-| C#     | Unity      |   Android | Time Management |
-| Javascript | Android Studio      |     | Efficiency |
-| SQL     | API      |   | Honesty |
-| C/C++     | BlueStacks      |    | Honorable
-| Python     | Visual Studio      |    | Training |
-| Markdown     |       |    | Communication |
+| Languages        | Tools           | Qualities|
+| :-------------: |:-------------:| :----: |
+| Java      | Git | Work Ethic |
+| C#     | Unity      |   Time Management |
+| Javascript | Android Studio     | Efficiency |
+| SQL     | API      |  Honesty |
+| C/C++     | BlueStacks      |   Honor
+| Python     | Visual Studio      |    Training |
+| Markdown     |       |   Communication |
 
 Expertise in **data mining**.
 
