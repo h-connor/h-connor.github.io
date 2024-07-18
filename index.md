@@ -65,9 +65,9 @@ A high-fidelity prototype of a food service website.
 * Provide orientations of up to 25 people at once for new team members.
 
 #### **Voluntary Work** 
-**SoloLearn**, *(October 2017 - 2018)* &nbsp;&nbsp; Mobile/Web application. Nominated Moderator.
+**SoloLearn**, *(October 2017 - 2018)* &nbsp; Mobile/Web application. Nominated Moderator.
 
-**Harvest Manitoba** *(June 2017 - 2021)*, &nbsp;&nbsp; food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
+**Harvest Manitoba** *(June 2017 - 2021)* &nbsp; food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
 
 ## Academic Achievements
 
