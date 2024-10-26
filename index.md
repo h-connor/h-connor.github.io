@@ -16,7 +16,7 @@ GPA: 4.06 (Overall)
 | C#     | Unity      |   Time Management |
 | Javascript | Android Studio     | Efficiency |
 | SQL     | API's      |  Honesty |
-| C/C++     | BlueStacks      |   Honor
+| C/C++     |   Pytorch   |   Honor
 | Python     | Visual Studio      |    Training |
 | Markdown     |       |   Communication |
 
@@ -24,15 +24,29 @@ Expertise in **data mining**.
 
 ## Experience
 
-#### **Research Assistant (Datamining Lab)** &nbsp;&nbsp; *June 2023 - Present*
+### **Research Assistant (Datamining Lab)** &nbsp;&nbsp; *June 2023 - Present*
 
 *Duties*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 * Complete assigned tasks. Create a model to uncover patterns among people diagnosed with Juvenile Arthritis for the prevention of prolonged diagnosis.
 
-#### **Grader / TA in Computer Science** &nbsp;&nbsp; *September 2021 - Present*
+### **Sessional Instructor** &nbsp;&nbsp; *Fall 2024 - Present*
 
 **University of Manitoba**, Wpg MB
+
+Courses taught: COMP 1012
+
+*Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+* Lecture classes
+* Create class materials including; notes, assignments, tests
+* Manage student inquiries and provide accessibility for student aid
+
+### **Grader / TA in Computer Science** &nbsp;&nbsp; *September 2021 - Present*
+
+**University of Manitoba**, Wpg MB
+
+Courses accompanied: COMP 3490, COMP 2160, COMP 4710, COMP 3380, COMP 4380, COMP 3550
 
 *Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,20 +56,20 @@ Expertise in **data mining**.
 
 ## (Undergraduate) School Projects
 
-#### SlowDrive
+### SlowDrive
 https://presentation-71ab83.webflow.io/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 An app to notify drivers of their speeding.
 
-#### TOGO
+### TOGO
 
 https://emily0906.github.io/Togo/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 A high-fidelity prototype of a food service website.
 
-#### **Volunteer Services Associate** &nbsp;&nbsp; *June 2018 - September 2021 (paid staff)*
+### **Volunteer Services Associate** &nbsp;&nbsp; *June 2018 - September 2021 (paid staff)*
 
 **Harvest Manitoba**, Wpg MB (previously named Winnipeg Harvest)
 
@@ -64,7 +78,7 @@ A high-fidelity prototype of a food service website.
 * Supervise, encourage, and train volunteers working on location.
 * Provide orientations of up to 25 people at once for new team members.
 
-#### **Voluntary Work** 
+### **Voluntary Work** 
 **SoloLearn**, *(October 2017 - 2018)* &nbsp; Mobile/Web application. Nominated Moderator.
 
 **Harvest Manitoba** *(June 2017 - 2021)* &nbsp; food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
