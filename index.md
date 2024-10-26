@@ -53,7 +53,7 @@ Courses accompanied: COMP 3490, COMP 2160, COMP 4710, COMP 3380, COMP 4380, COMP
 * Substitute instruction of a class (if required)
 * Grade student's assignments based on a provided rubric. Office hours and invigilation. Answer questions and provide feedback.
 * Report potential academic dishonesty and provide feedback to students.
-
+<!--
 ## (Undergraduate) School Projects
 
 ### SlowDrive
@@ -68,6 +68,7 @@ https://emily0906.github.io/Togo/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 A high-fidelity prototype of a food service website.
+-->
 
 ### **Volunteer Services Associate** &nbsp;&nbsp; *June 2018 - September 2021 (paid staff)*
 
