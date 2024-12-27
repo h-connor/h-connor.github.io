@@ -46,7 +46,7 @@ Courses taught: COMP 1012
 
 **University of Manitoba**, Wpg MB
 
-Courses accompanied: COMP 3490, COMP 2160, COMP 4710, COMP 3380, COMP 4380, COMP 3550
+Courses accompanied: DATA 3010, COMP 2080, COMP 2160, COMP 3380, COMP 3430, COMP 3490, COMP 3550, COMP 4380, COMP 4710, COMP 7944
 
 *Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
