@@ -80,3 +80,5 @@ Courses accompanied: DATA 3010, COMP 2080, COMP 2160, COMP 3380, COMP 3430, COMP
 * DOI: 10.1109/ASONAM55673.2022.10068716 - 2022
 * DOI: 10.1109/WI-IAT55865.2022.00097 - 2022
 * DOI: 10.1109/ICDH60066.2023.00049 - 2023
+
+[Research Gate Profile](https://www.researchgate.net/profile/Connor-Hryhoruk)
