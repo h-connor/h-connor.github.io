@@ -39,7 +39,7 @@ Courses taught: COMP 1012
 *Duties* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 * Lecture classes
-* Create class materials including; notes, assignments, tests
+* Create class materials including; notes, assignments
 * Manage student inquiries and provide accessibility for student aid
 
 ### **Grader / TA in Computer Science** &nbsp;&nbsp; *September 2021 - Present*
