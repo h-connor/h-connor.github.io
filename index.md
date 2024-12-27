@@ -66,7 +66,7 @@ Courses accompanied: DATA 3010, COMP 2080, COMP 2160, COMP 3380, COMP 3430, COMP
 ### **Voluntary Work** 
 **SoloLearn**, *(October 2017 - 2018)* &nbsp; Mobile/Web application. Nominated Moderator.
 
-**Harvest Manitoba** *(June 2017 - 2021)* &nbsp; food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
+**Harvest Manitoba** *(June 2017 - 2021)* &nbsp; Food distribution centre. Aid in the organization of various food products to be sent to food banks, soup kitchens, and other charitable communities across Manitoba. 
 
 ## Academic Achievements
 
